@@ -1,0 +1,5 @@
+Connected to server
+[0mGET /dist/jquery.min.js [32m200 [0m19.746 ms - 86355[0m
+Service consume on : absensi.*
+[0mGET /dist/semantic.js [32m200 [0m19.378 ms - 759261[0m
+[0mGET /dist/semantic.css [32m200 [0m24.156 ms - 788256[0m
